@@ -27,7 +27,7 @@
 
         </form><br><br><br>
 
-        <a href="http://localhost.c0m.at/view.php?name=2013-12-27-LocalLink">Powered by LocalLink!</a>
+        <a href="http://GitHub.com/RandomBinary/EZLinks">Powered by EZLinks!</a>
 
     </centeR>
 
